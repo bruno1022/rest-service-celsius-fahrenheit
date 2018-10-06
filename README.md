@@ -1,4 +1,4 @@
-# celsius2fahrenheit
+# rest-service-celsius-fahrenheit
 
 
 ## Passo 0: Crie, teste e depois publique o seu projeto no GitHub.
